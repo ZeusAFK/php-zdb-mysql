@@ -17,5 +17,7 @@
         "psr-4": {"ZeusAFK\\ZDB\\": "src/"}
     },
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+        "php": ">5.6"
+    }
 }

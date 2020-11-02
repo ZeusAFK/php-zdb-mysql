@@ -1,0 +1,16 @@
+{
+    "name": "zeusafk/php-zdb-mysql",
+    "type": "library",
+    "description": "MySQL Database library for PHP",
+    "keywords": ["php","database","mysql","mysqli"],
+    "homepage": "https://zeusafk.net",
+    "license": "Apache License 2.0",
+    "authors": [
+        {
+            "name": "Fernando Zabala",
+            "email": "zeusafk@gmail.com ",
+            "homepage": "https://zeusafk.net",
+            "role": "Developer"
+        }
+    ],
+}
